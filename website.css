@@ -1,0 +1,45 @@
+html {
+}
+
+	body { 
+	
+  background: url(1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  text-decoration: underline;
+  	  font-family: 'Pacifico'
+}
+
+
+h1 {
+   text-align: center;
+   color: red;
+   font-size: 60px;
+}
+p {
+	text-align: center;
+	color: green;
+	font-size: 30px;
+}
+
+hr {
+	border-color: orange;
+	border-width: 3px;
+	max-width: 65px;
+}
+
+.buffer {
+	height: 21rem;
+}
+.btn {
+	font-weight: 400px
+	border-radius: 300px;
+	text-align: center;
+}
+
+.btn-danger:hover {
+	background-color: blue;
+	border-color: blue;
+}
